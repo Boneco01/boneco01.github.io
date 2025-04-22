@@ -720,6 +720,17 @@ input, select, textarea {
 
 		}
 
+/* Iframe */
+
+	iframe {
+		border-radius: 4px;
+		display: block;
+
+		aspect-ratio: 16 / 9;
+    	height: auto;
+    	width: 100%;
+	}
+
 /* List */
 
 	ol {
